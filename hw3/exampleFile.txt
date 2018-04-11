@@ -1,0 +1,2 @@
+int float_var float x0x1234 VOID 98765321 oxbead ifswitch _am_valid goto 0xfeed 0789 next
+line var endif class __struct
